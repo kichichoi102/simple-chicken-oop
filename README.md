@@ -21,10 +21,17 @@ Note: This repository does not follow any best practices on naming conventions, 
 ```
 
 ## Prerequisites:
-- python
+- python3
 
 ## Usage:
 - `python3 main.py`
+
+## Expected Output:
+```python
+Name: Henrietta Age: 1
+Name: Bessie Age: 3
+Name: Mimi Age: 2
+```
 
 ## OOP Concepts used:
 1. Encapsulation
