@@ -1,6 +1,9 @@
 # simple-chicken-oop
 This repo demonstrates the simple implementation of OOP principles including the 4 pillars.
 
+Documentation:
+(https://docs.google.com/document/d/1d3POQjeTx4FpnYwPIogbDZY74NMiMPsBaIAlBNu410I/edit?usp=sharing)[https://docs.google.com/document/d/1d3POQjeTx4FpnYwPIogbDZY74NMiMPsBaIAlBNu410I/edit?usp=sharing]
+
 ## Note:
 This repository does not follow any best practices on naming conventions, branching conventions, or PEP conventions. It is a very quick and dirty implementation to demonstrate the basic concepts of OOP including the four pillars.
 
