@@ -7,6 +7,7 @@ This repository does not follow any best practices on naming conventions, branch
 The other repo: [`chicken-oop`](https://github.com/kichichoi102/chicken-oop) practices the best practices, and extends this repository with SOLID principles and OOD.
 
 ## OOP Concepts used:
+```
 1. Encapsulation
 The Animal class encapsulates the name and age properties and 
 the make_sound behavior.
@@ -23,6 +24,7 @@ can be called on any object that has a list of animals.
 4. Abstraction
 The Animal class is an abstract class, since it defines a 
 method (make_sound) that must be implemented by its subclasses.
+```
 
 In this example, the Animal class is the parent class and has two properties (name and age) and a method (make_sound) 
 that must be implemented by its child classes. The single entity classes inherit from the Animal class and 
