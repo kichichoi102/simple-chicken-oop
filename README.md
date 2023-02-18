@@ -1,6 +1,31 @@
 # simple-chicken-oop
 This repo demonstrates the simple implementation of OOP principles including the 4 pillars.
 
+## File Structure
+```
+.
+├── LICENSE
+├── README.md
+├── main.py
+└── src
+    ├── collections
+    │   ├── __pycache__
+    │   │   └── farm.cpython-38.pyc
+    │   └── farm.py
+    ├── interfaces
+    │   ├── __pycache__
+    │   │   └── animal.cpython-38.pyc
+    │   └── animal.py
+    └── single_entities
+        ├── __pycache__
+        │   ├── chicken.cpython-38.pyc
+        │   ├── cow.cpython-38.pyc
+        │   └── pig.cpython-38.pyc
+        ├── chicken.py
+        ├── cow.py
+        └── pig.py
+```
+
 ## Prerequisites:
 - python
 
