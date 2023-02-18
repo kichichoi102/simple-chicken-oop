@@ -9,18 +9,10 @@ This repo demonstrates the simple implementation of OOP principles including the
 ├── main.py
 └── src
     ├── collections
-    │   ├── __pycache__
-    │   │   └── farm.cpython-38.pyc
     │   └── farm.py
     ├── interfaces
-    │   ├── __pycache__
-    │   │   └── animal.cpython-38.pyc
     │   └── animal.py
     └── single_entities
-        ├── __pycache__
-        │   ├── chicken.cpython-38.pyc
-        │   ├── cow.cpython-38.pyc
-        │   └── pig.cpython-38.pyc
         ├── chicken.py
         ├── cow.py
         └── pig.py
